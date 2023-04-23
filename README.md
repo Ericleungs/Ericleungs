@@ -1,4 +1,4 @@
-[![Ericleungs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericleungs)](https://github.com/anuraghazra/github-readme-stats)
+[![Ericleungs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericleungs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Ericleungs/Ericleungs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
